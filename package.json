@@ -1,0 +1,15 @@
+{
+	"name": "mygurudemo",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/webboy-create/mygurudemo.git",
+	"author": "Samuel Ofornedu <samuelofornedu@gmail.com>",
+	"license": "MIT",
+	"scripts": {
+		"test": "cypress run",
+		"cypress": "cypress open"
+	},
+	"devDependencies": {
+		"cypress": "^13.6.0"
+	}
+}
